@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+nav{
+  display: flex;
+  background-color: #00ffbf;
+}
+
+nav li{
+  padding:0  24px;
+  list-style: none;
+  
+}
